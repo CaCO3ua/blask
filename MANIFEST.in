@@ -1,0 +1,3 @@
+graft blask/templates
+graft blask/static
+include blask/schema.sql
